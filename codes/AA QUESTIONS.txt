@@ -9,3 +9,8 @@ Power In Java
 Armstrong Number In Java
 Reverse A String In Java
 Find if a number is palindrome or not
+Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
+Write a program to print the sum and product of two numbers entered by user by defining your own method.
+Define a method to find out if a number is prime or not.
+Write a program to print the factorial of a number by defining a method named 'Factorial'.
+Write a function to check if a given triplet is a Pythagorean triplet or not. 

@@ -1,4 +1,4 @@
-package codes.dec8;
+package codes.dec08;
 import java.util.*;
 public class EvenOdd {
     public static void main(String[] args) {
