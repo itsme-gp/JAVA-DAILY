@@ -14,12 +14,12 @@ Write a program to print the sum and product of two numbers entered by user by d
 Define a method to find out if a number is prime or not.
 Write a program to print the factorial of a number by defining a method named 'Factorial'.
 Write a function to check if a given triplet is a Pythagorean triplet or not. 
-Leetcode: 1920. Build Array from Permutation
-Leetcode: 1929. Concatenation of Array
-Leetcode: 1480. Running Sum of 1d Array
-Leetcode: 1672. Richest Customer Wealth
-Leetcode: 1470. Shuffle the Array
+Array: 1920. Build Array from Permutation
+Array: 1929. Concatenation of Array
+Array: 1480. Running Sum of 1d Array
+Array: 1672. Richest Customer Wealth
+Array: 1470. Shuffle the Array
+String: 1108. Defanging an IP Address
+String: 1528. Shuffle String
+Array: 1287. Element Appearing More Than 25% In Sorted Array
 
-
-
-Leetcode: 
