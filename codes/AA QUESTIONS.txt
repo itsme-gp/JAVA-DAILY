@@ -1,27 +1,35 @@
-HELLO WORLD
-EVEN ODD
-Fibonacci Series 
-Subtract the Product and Sum of Digits of an Integer
-Input a number and print all the factors of that number (use loops).
-Take integer inputs till the user enters 0 and print the sum of all numbers.
-Take integer inputs till the user enters 0 and print the largest number from all.
-Power In Java
-Armstrong Number In Java
-Reverse A String In Java
-Find if a number is palindrome or not
-Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
-Write a program to print the sum and product of two numbers entered by user by defining your own method.
-Define a method to find out if a number is prime or not.
-Write a program to print the factorial of a number by defining a method named 'Factorial'.
-Write a function to check if a given triplet is a Pythagorean triplet or not. 
-Array: 1920. Build Array from Permutation
-Array: 1929. Concatenation of Array
-Array: 1480. Running Sum of 1d Array
-Array: 1672. Richest Customer Wealth
-Array: 1470. Shuffle the Array
-String: 1108. Defanging an IP Address
-String: 1528. Shuffle String
-Streak1: Array: 1287. Element Appearing More Than 25% In Sorted Array
-Streak2: Array: 1464. Maximum Product of Two Elements in an Array
-Pattern 1
+Dec8- HELLO WORLD
+Dec8- EVEN ODD
+Dec8- Fibonacci Series 
+Dec8- Subtract the Product and Sum of Digits of an Integer
+Dec8- Input a number and print all the factors of that number (use loops).
+Dec8- Take integer inputs till the user enters 0 and print the sum of all numbers.
+Dec8- Take integer inputs till the user enters 0 and print the largest number from all.
+Dec8- Power In Java
+Dec8- Armstrong Number In Java
+Dec8- Reverse A String In Java
+Dec8- Find if a number is palindrome or not
+Dec9- Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
+Dec9- Write a program to print the sum and product of two numbers entered by user by defining your own method.
+Dec9- Define a method to find out if a number is prime or not.
+Dec9- Write a program to print the factorial of a number by defining a method named 'Factorial'.
+Dec9- Write a function to check if a given triplet is a Pythagorean triplet or not. 
+Dec10- Array: 1920. Build Array from Permutation
+Dec10- Array: 1929. Concatenation of Array
+Dec10- Array: 1480. Running Sum of 1d Array
+Dec10- Array: 1672. Richest Customer Wealth
+Dec10- Array: 1470. Shuffle the Array
+Dec11- String: 1108. Defanging an IP Address
+Dec11- String: 1528. Shuffle String
+Dec11- Streak1: Array: 1287. Element Appearing More Than 25% In Sorted Array
+Dec12- Streak2: Array: 1464. Maximum Product of Two Elements in an Array
+Dec12- Pattern 1
+Dec12- Pattern 2
+Dec12- Pattern 3
+Dec12- Pattern 4
+Dec12- Pattern 5
+Dec12- Pattern 6
+Dec12- Pattern 7
+Dec12- Pattern 8
+Dec13-  
 
