@@ -21,5 +21,7 @@ Array: 1672. Richest Customer Wealth
 Array: 1470. Shuffle the Array
 String: 1108. Defanging an IP Address
 String: 1528. Shuffle String
-Array: 1287. Element Appearing More Than 25% In Sorted Array
+Streak1: Array: 1287. Element Appearing More Than 25% In Sorted Array
+Streak2: Array: 1464. Maximum Product of Two Elements in an Array
+Pattern 1
 
