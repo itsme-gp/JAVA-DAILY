@@ -34,5 +34,5 @@ Dec12- Pattern 8
 Dec13- Streak3 1582. Special Positions in a Binary Matrix
 Dec13- Array: 1431. Kids With the Greatest Number of Candies
 Dec13- Array: 1512. Number of Good Pairs
-
+Dec14- 
 
