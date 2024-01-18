@@ -1,0 +1,8 @@
+ nav{
+display: flex;
+background-color: aquamarine;
+}
+nav li{
+    list-style: none;
+    padding: 0  23px;
+}
