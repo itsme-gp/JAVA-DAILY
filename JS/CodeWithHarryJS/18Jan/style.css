@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#data{
+ background-color: chocolate;
+ color: black;
+ font-size: 1.5em;
+ padding: 10px;
+ text-align: center;
+ width: 100%;
+
+}
+

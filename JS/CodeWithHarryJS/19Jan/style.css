@@ -1,0 +1,10 @@
+.bulb{
+    height: 350px;
+    width: 350px;
+    background: yellow;
+}
+
+.bulb-container{
+    height: 350px;
+    width: 350px;
+}
