@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: block;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.table{
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+
+th,tr,td{
+    border: 1px solid;
+    align-content: center;
+    text-align: center;
+}
